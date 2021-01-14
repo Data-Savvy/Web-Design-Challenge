@@ -1,0 +1,50 @@
+
+.navbar a:hover,
+.dropdown:hover .dropbtn,
+.dropbtn:focus {
+  background-color: rgba(113, 209, 172, 0.726);
+  color: #000;
+}
+
+body {
+  background: white;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 0px 10px 0px;
+}
+
+.imgs {
+  background-color: white;
+  padding: 20px;
+}
+.nav.navbar.navbar-expand-lg.navbar-light.bg-light li a{
+color:black
+}
+#navbarDropdownMenuLink {
+   color: black;
+}
+
+.nav-link {
+  color: black;
+}
+
+.visImages {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1  {
+  color: rgba(8, 153, 98, 0.726);
+  text-align: center;
+}
+
+
+#description-image {
+  float: left;
+  width: 270px;
+  height: 300px;
+}
+
+h3 {
+  color: rgba(8, 153, 98, 0.726);
+  text-align: left;
+}
